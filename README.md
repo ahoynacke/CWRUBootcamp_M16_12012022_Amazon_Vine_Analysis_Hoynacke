@@ -27,6 +27,10 @@ The Amazon_Reviews_ETL.ipynb file does the following:
 <img width="1281" alt="Screen Shot 2022-12-01 at 6 18 55 PM" src="https://user-images.githubusercontent.com/111096384/205179593-d5fbbb0b-c683-4a6b-a5f6-e572d539b588.png">
 
   3. All four DataFrames are loaded into their respective tables in pgAdmin 
+  
+  <img width="695" alt="Screen Shot 2022-12-01 at 6 47 29 PM" src="https://user-images.githubusercontent.com/111096384/205182905-0da4afdc-9124-4e92-bd6e-3b3aef2f179a.png">
+
+<img width="1440" alt="Screen Shot 2022-12-01 at 6 48 40 PM" src="https://user-images.githubusercontent.com/111096384/205183067-6419a793-cad0-4922-986c-42c87f341065.png">
 
 # Deliverable 2
 
