@@ -63,5 +63,23 @@ The analysis does the following:
 
 <img width="448" alt="Screen Shot 2022-12-01 at 6 35 17 PM" src="https://user-images.githubusercontent.com/111096384/205181507-f4a38d20-8545-41a2-9258-14112e02c5d3.png">
 
+# Deliverable 3
+
+## Overview of the analysis of the Vine program:
+
+## The purpose of this analysis is well defined
+
+Results: the purpose of this project was yto determine if there is any bias toward favorable reviews from Vine members in your dataset.
+
+## There is a bulleted list that addresses the three questions for unpaid and paid program reviews 
+Summary:
+
+The queries shown look at paid vs non paid 
+
+<img width="729" alt="Screen Shot 2022-12-01 at 6 58 03 PM" src="https://user-images.githubusercontent.com/111096384/205184142-c7f01893-0818-47ac-b709-c8d19dee0c62.png">
+
+## The summary states whether or not there is bias, and the results support this statement 
+
+The percent of non vine reviews was much greater than vine reviews. Vine reviews were also close in "helpfulness" to the non vine reviews so I do not believe there is a bias.
 
 
